@@ -1,12 +1,13 @@
 # HR Information Tracker
 
-## 1. Company: Bugcrowd
-- HR Name: [To be updated]
-- Email: [To be updated]
+## 1. Company: Network Techlab India Limited
+- HR Name: Urvi
+- Email: urvi.s@netlabindia.com
 - Mobile: [To be updated]
 - Job Role: AWS DevOps Engineer / Site Reliability Engineer
-- Location: Remote / Hyderabad
-- Source: Company Careers Page / LinkedIn
+- Location: Andheri
+- Source: LinkedIn
+- Mail date: 17-01-26
 - Interview Date: Not yet scheduled
 - Interview Status: Resume Submitted
 - Follow-up Date: [Add follow-up date]
